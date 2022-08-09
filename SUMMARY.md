@@ -11,6 +11,11 @@
 * [My Purchase code](support/my-purchase-code.md)
 * [How to get support](support/how-to-get-support.md)
 
+## Installation
+
+* [How to install demo](installation/how-to-install-demo.md)
+* [Common Installation Issues](installation/common-installation-issues.md)
+
 ## Fundamentals
 
 * [Projects](fundamentals/projects.md)
