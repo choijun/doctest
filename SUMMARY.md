@@ -4,13 +4,12 @@
 
 * [Welcome to Zumma](README.md)
 * [Theme requirements](getting-started/theme-requirements.md)
-* [WordPress knowledge base](getting-started/wordpress-knowledge-base.md)
+* [WordPress knowledge base](getting-started/advanced-permissions.md)
 
-## Guides
+## Support
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [My Purchase code](support/my-purchase-code.md)
+* [How to get support](support/how-to-get-support.md)
 
 ## Fundamentals
 
