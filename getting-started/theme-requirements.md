@@ -38,12 +38,12 @@ define(‘WP_MEMORY_LIMIT', '256M' )
 
 above the line **/That's all, stop editing! Happy blogging./**
 
-![](https://3490417153-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCGEvkIGZQql1dvbXwu25%2Fuploads%2FRY3Qng0qawYZifoUqT7O%2Ftheme%20requirements%202%20WP-Memory-Limit.png?alt=media\&token=a1eadca2-9725-4db5-bb66-005e544323c9)
+![](<../.gitbook/assets/theme requirements 2 WP-Memory-Limit.png>)
 
 * **WP Debug Mode**: It is not important to set WP Debug Mode then do not worry about it.
 * **PHP Time limit**: find the file wp-config.php. Add the line **“set\_time\_limit(600);”** above the line **/That's all, stop editing! Happy blogging./**
 
-![](https://3490417153-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCGEvkIGZQql1dvbXwu25%2Fuploads%2FGxZRvSKWIdGavkPfsArB%2Ftheme%20requirements%203%20PGP-Time-limit.png?alt=media\&token=7c4fed5f-f86b-4694-8ac5-e21b32673ab4)
+![](<../.gitbook/assets/theme requirements 3 PGP-Time-limit.png>)
 
 * **PHP Max Input Vars**: Find .htaccess in folder Root of website. Add the line **“php\_value max\_input\_vars 5000”**
 
@@ -53,12 +53,12 @@ above the line **/That's all, stop editing! Happy blogging./**
 
 **Step 1**: Go to cPanel find **Select PHP version**
 
-![](https://3490417153-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCGEvkIGZQql1dvbXwu25%2Fuploads%2Fuza0mFtjxRdJ177RuR52%2F2.1%20select-php-version.png?alt=media\&token=71bac955-11d7-4301-9282-a1722d5c796b)
+![](<../.gitbook/assets/2.1 select-php-version.png>)
 
 **Step 2**: Choose version 5.6 and enable XML reader extension
 
 **Step 3**: Save the file
 
-![](https://3490417153-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCGEvkIGZQql1dvbXwu25%2Fuploads%2FDgp10nUTVp7rA4FtzrzB%2F2.2%20image.png?alt=media\&token=53a881fb-1970-4243-b84a-a7c93e5e4040)
+![](<../.gitbook/assets/2.2 image.png>)
 
 {% embed url="https://www.youtube.com/watch?ab_channel=RINMusic&v=Kv2Ok5b0e14" %}
