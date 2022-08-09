@@ -3,7 +3,7 @@
 ## Getting Started
 
 * [Welcome to Zumma](README.md)
-* [Creating your first task](getting-started/creating-your-first-task.md)
+* [Theme requirements](getting-started/theme-requirements.md)
 * [Advanced permissions](getting-started/advanced-permissions.md)
 
 ## Guides
