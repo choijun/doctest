@@ -1,6 +1,10 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+## Getting Started
+
+* [Welcome to Zumma](README.md)
+* [Creating your first task](getting-started/creating-your-first-task.md)
+* [Advanced permissions](getting-started/advanced-permissions.md)
 
 ## Guides
 
