@@ -35,3 +35,7 @@
 ## Extras
 
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+
+## FAQs
+
+* [Things you should know about theme updating](faqs/things-you-should-know-about-theme-updating.md)
