@@ -4,7 +4,7 @@
 
 * [Welcome to Zumma](README.md)
 * [Theme requirements](getting-started/theme-requirements.md)
-* [Advanced permissions](getting-started/advanced-permissions.md)
+* [WordPress knowledge base](getting-started/wordpress-knowledge-base.md)
 
 ## Guides
 
