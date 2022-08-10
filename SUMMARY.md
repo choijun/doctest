@@ -16,25 +16,18 @@
 * [How to install demo](installation/how-to-install-demo.md)
 * [Common Installation Issues](installation/common-installation-issues.md)
 
-## Fundamentals
+## Update
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Before Updating](update/before-updating.md)
+* [Update Theme](update/update-theme.md)
+* [Optimize theme](update/optimize-theme.md)
 
-## Use Cases
+## Build Your Site
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [WordPress configuration](build-your-site/wordpress-configuration.md)
+* [Theme Options](build-your-site/theme-options.md)
+* [Build with Elementor](build-your-site/build-with-elementor/README.md)
+  * [Header Site Part](build-your-site/build-with-elementor/header-site-part.md)
 
 ## FAQs
 
