@@ -30,6 +30,13 @@
   * [Header Site Part](build-your-site/build-with-elementor/header-site-part.md)
   * [Footer Site Part](build-your-site/build-with-elementor/footer-site-part.md)
   * [Single Post Site Part](build-your-site/build-with-elementor/single-post-site-part.md)
+  * [Single Page Site Part](build-your-site/build-with-elementor/single-page-site-part.md)
+  * [Archive Site Part](build-your-site/build-with-elementor/archive-site-part.md)
+  * [Search Results Site Part](build-your-site/build-with-elementor/search-results-site-part.md)
+  * [Error 404 Site Part](build-your-site/build-with-elementor/error-404-site-part.md)
+  * [Single Product Site Part](build-your-site/build-with-elementor/single-product-site-part.md)
+  * [Product Archives Site Part](build-your-site/build-with-elementor/product-archives-site-part.md)
+  * [Popups](build-your-site/build-with-elementor/popups.md)
 
 ## FAQs
 
