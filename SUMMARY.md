@@ -41,3 +41,7 @@
 ## FAQs
 
 * [Things you should know about theme updating](faqs/things-you-should-know-about-theme-updating.md)
+
+## WooCommerce Features
+
+* [Sale countdown timer](woocommerce-features/sale-countdown-timer.md)
