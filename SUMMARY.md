@@ -37,13 +37,19 @@
   * [Single Product Site Part](build-your-site/build-with-elementor/single-product-site-part.md)
   * [Product Archives Site Part](build-your-site/build-with-elementor/product-archives-site-part.md)
   * [Popups](build-your-site/build-with-elementor/popups.md)
-
-## FAQs
-
-* [Things you should know about theme updating](faqs/things-you-should-know-about-theme-updating.md)
+  * [Maintenance mode](build-your-site/build-with-elementor/maintenance-mode.md)
 
 ## WooCommerce Features
 
 * [Sale countdown timer](woocommerce-features/sale-countdown-timer.md)
 * [Color Swatches](woocommerce-features/color-swatches.md)
 * [WooCommerce Builder](woocommerce-features/woocommerce-builder.md)
+
+## Menu
+
+* [How to create menu](menu/how-to-create-menu.md)
+* [How to create Mega menu](menu/how-to-create-mega-menu.md)
+
+## FAQs
+
+* [Things you should know about theme updating](faqs/things-you-should-know-about-theme-updating.md)
