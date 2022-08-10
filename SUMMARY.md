@@ -18,16 +18,18 @@
 
 ## Update
 
-* [Before Updating](update/before-updating.md)
-* [Update Theme](update/update-theme.md)
-* [Optimize theme](update/optimize-theme.md)
+* [Before Updating](fundamentals/projects.md)
+* [Update Theme](fundamentals/members.md)
+* [Optimize theme](fundamentals/task-lists.md)
 
 ## Build Your Site
 
-* [WordPress configuration](build-your-site/wordpress-configuration.md)
+* [WordPress configuration](extras/keyboard-shortcuts.md)
 * [Theme Options](build-your-site/theme-options.md)
 * [Build with Elementor](build-your-site/build-with-elementor/README.md)
   * [Header Site Part](build-your-site/build-with-elementor/header-site-part.md)
+  * [Footer Site Part](build-your-site/build-with-elementor/footer-site-part.md)
+  * [Single Post Site Part](build-your-site/build-with-elementor/single-post-site-part.md)
 
 ## FAQs
 
