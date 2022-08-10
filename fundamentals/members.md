@@ -20,6 +20,20 @@ There are 2 ways to update Zumma:&#x20;
 
 ![](../.gitbook/assets/update-theme-1.png) ![](../.gitbook/assets/update-theme-2.png)
 
+**Enable auto-updates for plugins**
+
+Navigate to Plugins Screen. For each plugin, there is an “Automatic update” column with an action link used to enable/disable auto-updates plugin by plugin.
+
+![](https://wordpress.org/support/files/2020/07/helphub-update-plugins-enable-1-1024x368.png)
+
+Click on this action link to enable auto-updates for each specific plugin.
+
+Once enabled, auto-updates can be disabled at any time, using the same toggle link.
+
+Plugins auto-updates can be bulk enabled or disabled for several plugin at one time by using the bulk action selector. Select plugins using the checkbox located in the first column of the plugins list table and use the bulk action selector located on the top of the table to enable or disable auto-updates. Then click on the “Apply” button to bulk enable/disable auto-updates for the selected items.
+
+{% embed url="https://wordpress.org/support/files/2020/07/helphub-update-bulk-plugins.mp4" %}
+
 ### **#2 Update manually** &#x20;
 
 **Step 1:** Download the theme package from ThemeForest and get the file _**zumma.zip**_&#x20;

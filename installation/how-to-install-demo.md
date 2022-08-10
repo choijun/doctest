@@ -4,7 +4,7 @@
 **Good to know:** Zumma allows you to install any demo you want with just one single click
 {% endhint %}
 
-{% embed url="https://www.youtube.com/watch?ab_channel=LAStudio&v=bt8hXaNvNaw" %}
+{% embed url="https://youtu.be/uqCkAdDJsJo" %}
 
 {% hint style="success" %}
 **Summarize**&#x20;

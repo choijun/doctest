@@ -2,6 +2,8 @@
 
 _In this guide, you can set Sale Countdown Timer for certain products._
 
+{% embed url="https://youtu.be/9yNPZhxR1Tk" %}
+
 {% hint style="info" %}
 This feature only works with products has no variation
 {% endhint %}
@@ -23,5 +25,3 @@ This feature only works with products has no variation
 {% hint style="danger" %}
 Note: Don’t forget to hit Update to save your changes for that product.
 {% endhint %}
-
-{% embed url="https://youtu.be/9yNPZhxR1Tk" %}
