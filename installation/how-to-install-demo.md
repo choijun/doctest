@@ -1,10 +1,10 @@
 # How to install demo
 
 {% hint style="info" %}
-**Good to know:** MinimogWP allows you to install any demo you want with just one single click
+**Good to know:** Zumma allows you to install any demo you want with just one single click
 {% endhint %}
 
-{% embed url="https://www.youtube.com/watch?v=5UJUzemtI-A" %}
+{% embed url="https://www.youtube.com/watch?ab_channel=LAStudio&v=bt8hXaNvNaw" %}
 
 {% hint style="success" %}
 **Summarize**&#x20;
