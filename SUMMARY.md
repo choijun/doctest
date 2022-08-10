@@ -45,3 +45,4 @@
 ## WooCommerce Features
 
 * [Sale countdown timer](woocommerce-features/sale-countdown-timer.md)
+* [Color Swatches](woocommerce-features/color-swatches.md)
