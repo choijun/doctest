@@ -2,6 +2,8 @@
 
 _Follow these steps to create Product Variation Swatches._
 
+{% embed url="https://youtu.be/N6-cm_rQvuY" %}
+
 ### Create variations
 
 **Step 1:** From the Dashboard, navigate to **Products > Attributes**&#x20;
