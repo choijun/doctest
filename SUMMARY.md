@@ -56,3 +56,5 @@
 * [Things you should know about theme updating](faqs/things-you-should-know-about-theme-updating.md)
 * [How to get Instagram Access Token](faqs/how-to-get-instagram-access-token.md)
 * [How To Change WooCommerce Product Image Size](faqs/how-to-change-woocommerce-product-image-size.md)
+* [Create Header Sticky](faqs/create-header-sticky.md)
+* [Create Header Transparency](faqs/create-header-transparency.md)
